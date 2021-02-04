@@ -16,19 +16,27 @@ At this stage, they all just need to understand what the tech is and what role i
 
 Please let other contributors know what the status of your definition is there are 4 statuses
 
-Status: No Definition - Needs Work
+Status: **No Definition - Needs Work**
 
-Status: In Progress
+Status: **In Progress**
 
-Status: Feedback Appreciated
+Status: **Feedback Appreciated**
 
-Status: Completed-v1
+Status: **Completed-v1**
+
+## Business impact of cloud native technology 
+
+Business operating models in today’s world have shifted dramatically. The ability to adjust to changing customer demands, technology stacks across supply chains, mergers and divestitures, and manage people dynamically are all contributing toward a move toward becoming Digital.  Digital transformation has now led to a world where organizations largely derive value and revenue through digital interactions.No longer is technology merely supporting business processes, it has become a strategic differentiator. 
+
+Cloud native technologies allow companies to deliver digital products and services to market faster with increased scalability, stability, and resiliency to adapt as market needs shift while minimizing operations cost. loud native technologies automate operations to improve efficiency, elastically scale based on customer needs, and ensure business continuity.
+
+The Cloud Native Computing Foundation seeks to drive adoption of this paradigm by fostering and sustaining a community and ecosystem of open source, vendor-neutral projects which focus on driving business value. We are a neutral space for open collaboration and innovation that enables the creation of new billion-dollar markets.
 
 ## Terms
 
 ### Abstraction
 
-Status: In Progress
+Status: **Feedback Appreciated**
 
 ***What it is***
 
@@ -44,7 +52,7 @@ With abstraction, all the details could be hidden, which helps reduce complexity
 
 ### API gateway
 
-Status: Completed-v1
+Status: **Completed-v1**
 
 ***What it is***
 
@@ -60,7 +68,7 @@ By providing a single access point for requests to all web services in a system,
 
 ### Application Programming Interface (API)
 
-Status: Completed-v1
+Status: **Completed-v1**
 
 ***What it is***
 
@@ -76,7 +84,7 @@ APIs are one of the building blocks for modern applications because they provide
 
 ### Bare metal machine
 
-Status: In Progress
+Status: **Feedback Appreciated**
 
 ***What it is***
 
@@ -96,7 +104,7 @@ By utilizing bare metal resources and contracting with cloud providers for a usa
 
 ### Blue green deployment
 
-Status: In Progress
+Status: **Feedback Appreciated**
 
 ***What it is***
 
@@ -128,7 +136,7 @@ Allowing organic interaction with new deployments in a controlled manner allows 
 
 ### Cloud computing
 
-Status: In Progress
+Status: **Feedback Appreciated**
 
 ***What it is***
 
@@ -178,7 +186,7 @@ The use of Cloud Native Technologies means that the desirable traits of cloud-na
 
 ### Cloud native security
 
-Status: completed-v1
+Status: **completed-v1**
 
 ***What it is***
 
@@ -194,7 +202,7 @@ Cloud native security introduces a new paradigm that protects applications by mi
 
 ### Cluster
 
-Status: In Progress
+Status: **Feedback Appreciated**
 
 ***What it is***
 
@@ -210,7 +218,7 @@ By running across multiple machines, clustered, distributed systems avoid having
 
 ### Continuous delivery (CD)
 
-Status: In Progress
+Status: **Feedback Appreciated**
 
 ***What it is***
 
@@ -226,7 +234,7 @@ CD strategies create an automated platform that tests and deploys the software u
 
 ### Continuous integration (CI)
 
-Status: In Progress
+Status: **Feedback Appreciated**
 
 ***What it is***
 
@@ -242,7 +250,7 @@ CI software automatically checks that code changes merge cleanly whenever any de
 
 ### DevOps
 
-Status: Feedback Appreciated
+Status: **Feedback Appreciated**
 
 ***What it is***
 
@@ -258,7 +266,7 @@ By giving developers the ability to write and execute application code anywhere 
 
 ### DevSecOps
 
-Status: Feedback Appreciated
+Status: **Feedback Appreciated**
 
 ***What it is***
 
@@ -280,7 +288,7 @@ DevSecOps will help to:
 
 ### Distributed applications
 
-Status: In Progress
+Status: **Feedback Appreciated**
 
 ***What it is***
 
@@ -296,7 +304,7 @@ By splitting the application up into pieces and running those in many places, th
 
 ### Distributed system
 
-Status: In Progress
+Status: **Feedback Appreciated**
 
 ***What it is***
 
@@ -313,7 +321,7 @@ Some words go here ;)
 
 ### Immutable infrastructure
 
-Status: In Progress
+Status: **No Definition - Needs Work**
 
 ***What it is***
 
@@ -329,7 +337,7 @@ By preventing or identifying unauthorised changes, immutable infrastructure make
 
 ### Infrastructure as code
 
-Status: In Progress
+Status: **Feedback Appreciated**
 
 ***What it is***
 
@@ -345,7 +353,7 @@ By representing the data center resources such as servers, load balancers, and s
 
 ### Kubernetes
 
-Status: In Progress
+Status: **Feedback Appreciated**
 
 ***What it is***
 
@@ -361,7 +369,7 @@ Kubernetes enables you to pre-wire your environment to have automation for softw
 
 ### Loosely coupled architectures
 
-Status: Feedback Appreciated
+Status: **Feedback Appreciated**
 
 ***What it is***
 
@@ -378,7 +386,7 @@ By decoupling an application, application development will be quicker since exte
 
 ### Microservices - Daniel Jones
 
-Status: In Progress
+Status: **Feedback Appreciated**
 
 ***What it is***
 
@@ -396,7 +404,7 @@ Separating areas of functionality into different Microservices makes it easier t
 
 ### Monolithic application
 
-Status: In Progress
+Status: **Feedback Appreciated**
 
 ***What it is***
 
@@ -412,7 +420,7 @@ A well-designed monolith can uphold lean principles, by being the simplest way t
 
 ### Nodes
 
-Status: Feedback Appreciated
+Status: **Feedback Appreciated**
 
 ***What it is***
 
@@ -428,7 +436,7 @@ A node gives you a distinct unit of compute, memory/cpu/network, that you can as
 
 ### Openness (concept) 
 
-Status: No Definition - Needs Work
+Status: **No Definition - Needs Work**
 
 ***What it is***
 
@@ -438,7 +446,7 @@ Status: No Definition - Needs Work
 
 ### Portability
 
-Status: No Definition - Needs Work
+Status: **No Definition - Needs Work**
 
 
 ***What it is***
@@ -449,7 +457,7 @@ Status: No Definition - Needs Work
 
 ### Reliability
 
-Status: In Progress
+Status: **No Definition - Needs Work**
 
 ***What it is***
 
@@ -465,7 +473,7 @@ Reliability ensures a system is responsive in the presence of failure. However, 
 
 ### Scalability and auto-scaling
 
-Status: In Progress
+Status: **Feedback Appreciated**
 
 ***What it is***
 
@@ -481,7 +489,7 @@ Scalability ensures a system is responsive in the presence of load. However, Sca
 
 ### Self-healing
 
-Status: In Progress
+Status: **Feedback Appreciated**
 
 ***What it is***
 
@@ -497,7 +505,7 @@ A self-healing system has a ‘convergence’ or ‘control’ loop that activel
 
 ### Client-server architecture
 
-Status: In Progress
+Status: **Feedback Appreciated**
 
 ***What it is***
 
@@ -513,7 +521,7 @@ By implementing application logic in a remote server or service, operators can u
 
 ### Service
 
-Status: In Progress
+Status: **Feedback Appreciated**
 
 ***What it is***
 
@@ -531,7 +539,7 @@ A Kubernetes Service registers a new IP address and forwards traffic on to the w
 
 ### Service discovery
 
-Status: Feedback Appreciated
+Status: **Feedback Appreciated**
 
 ***What it is***
 
@@ -547,7 +555,7 @@ Service discovery tools address this problem by providing a common place to find
 
 ### Service mesh
 
-Status: Feedback Appreciated
+Status: **Feedback Appreciated**
 
 ***What it is***
 
@@ -584,7 +592,7 @@ Proxies gather critical data, manage routing (spreading traffic evenly among ser
 
 ### Stateful (vs. Stateless) Applications
 
-Status: Feedback Appreciated
+Status: **Feedback Appreciated**
 
 ***What is it?***
 
@@ -609,7 +617,7 @@ Status: No Definition - Needs Work
 
 ### Virtualization
 
-Status: Feedback Appreciated
+Status: **Feedback Appreciated**
 
 ***What it is***
 

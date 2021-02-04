@@ -120,7 +120,7 @@ Blue/Green Deployment is an appropriate strategy for non-cloud native software t
 
 ### Canary Deployments
 
-Status: Feedback Appreciated
+Status: **Feedback Appreciated**
 
 ***What it is***
 
@@ -152,7 +152,7 @@ Cloud computing allows enterprises to reduce the need for big IT infrastructure 
 
 ### Cloud native applications
 
-Status: Feedback 
+Status: **Feedback Appreciated** 
 
 ***What it is***
 
@@ -170,7 +170,7 @@ Cloud native applications are on the rise. The evolution of cloud computing has 
 
 ### Cloud native technologies
 
-Status: In Progress
+Status: **Feedback Appreciated**
 
 ***What it is***
 
@@ -573,7 +573,7 @@ Service meshes add reliability, observability, and security features uniformly a
 
 ### Service proxy
 
-Status: Feedback Appreciated
+Status: **Feedback Appreciated**
 
 ***What it is***
 
@@ -607,7 +607,7 @@ Stateless applications tackle the problem of resiliency, because different pods 
 Depending on what application you’re deploying, you may choose to use either stateful or stateless. Stateless containers are easier to deploy, and you don’t need to worry about saving container data on persistent storage volumes. You also don't have to worry about backing up the data. However, if your application needs to retain state information to do what it’s supposed to do, stateful is the only option. If you choose stateful, make sure you have a Kubernetes-native backup solution to prevent accidental data loss or corruption.
 
 ### Tightly coupled architectures - Michael Foster
-Status: No Definition - Needs Work
+Status: **No Definition - Needs Work**
 
 ***What it is***
 
